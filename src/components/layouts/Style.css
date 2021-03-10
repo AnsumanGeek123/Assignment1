@@ -1,0 +1,17 @@
+
+.link{
+    text-decoration: none;
+    color: lightseagreen;
+    font-size: 18px;
+}
+
+.link:hover{
+    color: lightseagreen;
+    text-decoration: none;
+    text-decoration-color: lightseagreen;
+    text-decoration-line: none;
+}
+
+.text{  
+    font-family: 'Source Sans Pro', sans-serif;
+}
