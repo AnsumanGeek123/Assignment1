@@ -19,7 +19,7 @@ class App extends Component {
             <Navbar/>    
             <Switch>
             <Route path="/" exact component={Bills} />
-            <Route path="/chart" exact component={Chart} />
+            {/* <Route path="/chart" exact component={Chart} /> */}
             <Route path="/add" exact component={AddBill} />
             <Route path="/bill/edit/:id" exact component={EditBill} />
             </Switch>
