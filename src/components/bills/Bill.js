@@ -5,7 +5,7 @@ import { Card, Button, Chip } from 'react-materialize';
 import { deleteBill } from "../../actions/billActions";
 import "./Style.css";
 
-
+//Diffrent components
 class Bill extends Component {
  
   //function to delete a bill

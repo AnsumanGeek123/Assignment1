@@ -68,7 +68,7 @@ class EditBill extends Component {
     this.props.history.push("/");
   };
 
-
+//edited
   render() {
 
     const { amount, category, date, description } = this.state;

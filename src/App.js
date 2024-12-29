@@ -9,7 +9,7 @@ import Chart from "./components/chart/Chart";
 import store from "./store";
 import './App.css';
 
-
+//readt from https://github.com/
 class App extends Component {
   render() {
     return (

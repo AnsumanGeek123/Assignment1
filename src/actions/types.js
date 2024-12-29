@@ -10,3 +10,4 @@ export const DELETE_BILL = "DELETE_BILL";
 
 export const GET_CAT_BILLS = "GET_CAT_BILLS";
 
+// all the available options

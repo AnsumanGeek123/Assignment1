@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import { TextInput, Button, Card, Row, Col } from 'react-materialize';
 import { addBill, getBills } from "../../actions/billActions";
 
-
+//Added the things
 class AddBill extends Component {
 
   state = {
