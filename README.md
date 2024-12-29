@@ -107,7 +107,7 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 ## Folder Structure
 
 After creation, your project should look like this:
-
+File structure to look like
 ```
 my-app/
   README.md
